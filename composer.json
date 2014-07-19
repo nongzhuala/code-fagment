@@ -1,0 +1,13 @@
+{
+    "name": "izumi/getlagoujob",
+    "description": "get job from lagou",
+    "authors": [
+        {
+            "name": "dafa",
+            "email": "imotaku@sina.com"
+        }
+    ],
+    "require": {
+
+    }
+}
